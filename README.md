@@ -51,4 +51,3 @@ Skapad och underhållen för att fungera bäst tillsammans med Grok.
 ---
 
 **Byggd för Grok. Inte för att vara ännu en generisk AI-grej.**
-När du har sparat den, skriv bara “klart” så skickar jag nästa fil.
