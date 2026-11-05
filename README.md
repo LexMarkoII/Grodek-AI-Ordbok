@@ -36,7 +36,14 @@ Det är därför den här repon är gjord för Grok – inte för att vara “AI
 
 När skillen är aktiv triggas den automatiskt på frågor som:
 - “vad betyder …”, “definition av …”, “synonym till …”, “etymologi …”, “hur böjs …”, “översätt …”, “ordbok”, “Grodek” osv.
-- ## Status
+
+## Struktur
+Grodek/
+├── README.md          ← den här filen
+├── SKILL.md           ← själva skillen för Grok
+├── LICENSE            ← MIT
+└── .gitignore
+## Status
 
 Aktiv utveckling.  
 Skapad och underhållen för att fungera bäst tillsammans med Grok.
@@ -44,5 +51,4 @@ Skapad och underhållen för att fungera bäst tillsammans med Grok.
 ---
 
 **Byggd för Grok. Inte för att vara ännu en generisk AI-grej.**
-
-
+När du har sparat den, skriv bara “klart” så skickar jag nästa fil.
